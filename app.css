@@ -247,6 +247,7 @@ footer .footer-copyright{
   nav ul{
     flex-direction: column;
     align-items: center;
+    padding: 0;
     
   }
 
