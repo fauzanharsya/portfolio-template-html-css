@@ -82,6 +82,7 @@ nav{
   justify-content: space-between;
   padding: 1rem 2rem;
   font-size: 1.2rem;
+  align-items: center;
 } 
 
 nav ul li, nav ul li a{
@@ -240,7 +241,6 @@ footer .footer-copyright{
 
   nav .logo{
     margin-bottom: 1.5rem;
-    align-items: center;
     text-align: center;
   }
 
@@ -253,6 +253,7 @@ footer .footer-copyright{
   nav ul li{
     margin-bottom: 1rem;
     align-items: center;
+    text-align: center;
   }
 
   #hero{
